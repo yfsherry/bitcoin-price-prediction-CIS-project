@@ -43,17 +43,6 @@ and 'upvotes' & 'downvotes' in reddit dataset, we captured the popularity inform
 to the 'likes' & 'retweets' count and 'upvotes' minus 'downvotes' count. For the final step before tuning our parameters into 
 deep learning networks, we implemented LightGBM to left our weak features. 
 
-
-**Author**
-
-Tong Li · Xi’an Jiaotong University · College of Mathematics and Statistics · litong1812@gmail.com
-
-Pengfei Qiao · Southeast University · College of Computer Science · anesthetisa@gmail.com
-
-Yuxuan Fu · East China Normal University · College of Economic Management · sherry_fu1002@163.com
-
-Jiayi Yan · Qingdao No.2 Middle School · nanabeatrice@163.com
-
 #
 **Note**
 
@@ -71,3 +60,15 @@ CNN networks.
 }
 ```
 #
+
+
+**Author**
+
+Tong Li · Xi’an Jiaotong University · College of Mathematics and Statistics · litong1812@gmail.com
+
+Pengfei Qiao · Southeast University · College of Computer Science · anesthetisa@gmail.com
+
+Yuxuan Fu · East China Normal University · College of Economic Management · sherry_fu1002@163.com
+
+Jiayi Yan · Qingdao No.2 Middle School · nanabeatrice@163.com
+
