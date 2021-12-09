@@ -40,7 +40,7 @@ sentences to clauses.
 We rebuilt other parameters into weighted moving average transformation. Considering 'retweets' in tweet dataset 
 and 'upvotes' & 'downvotes' in reddit dataset, we captured the popularity information into sentiment factors by multiplying sentiment 
 to the 'likes' & 'retweets' count and 'upvotes' minus 'downvotes' count. For the final step before tuning our parameters into 
-deep learning networks, we implemented LightGBM to left our weak features. 
+deep learning networks, we implemented LightGBM to left out weak features. 
 
 #
 **Note**
