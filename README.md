@@ -38,7 +38,7 @@ Henry’s dictionary and categories divided by LM is more rigorous than GI vocab
 and TextBlob to extract sentiment polarity & subjectivity from texts with various lengths from whole documents, paragraphs, 
 sentences to clauses. 
 
-Moreover, we rebuilt other parameters into weighted moving average transformation. Considering 'retweets' in tweet dataset 
+We rebuilt other parameters into weighted moving average transformation. Considering 'retweets' in tweet dataset 
 and 'upvotes' & 'downvotes' in reddit dataset, we captured the popularity information into sentiment factors by multiplying sentiment 
 to the 'likes' & 'retweets' count and 'upvotes' minus 'downvotes' count. For the final step before tuning our parameters into 
 deep learning networks, we implemented LightGBM to left our weak features. 
@@ -46,10 +46,10 @@ deep learning networks, we implemented LightGBM to left our weak features.
 
 **Author**
 
-Tong Li · Xi’an Jiaotong University · College of Mathematics and Statistics · litong1812@gmail.com
-Pengfei Qiao · Southeast University · College of Computer Science · anesthetisa@gmail.com
-Yuxuan Fu · East China Normal University · College of Economic Management · sherry_fu1002@163.com
-Jiayi Yan · Qingdao No.2 Middle School · nanabeatrice@163.com
+Tong Li · Xi’an Jiaotong University · College of Mathematics and Statistics · litong1812@gmail.com\\
+Pengfei Qiao · Southeast University · College of Computer Science · anesthetisa@gmail.com\\
+Yuxuan Fu · East China Normal University · College of Economic Management · sherry_fu1002@163.com\\
+Jiayi Yan · Qingdao No.2 Middle School · nanabeatrice@163.com\\
 
 #
 **Note**
