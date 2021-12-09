@@ -1,4 +1,3 @@
-# bitcoin-price-prediction-CIS-project
 # Prediction of Bitcoin Prices Using Machine Learning Algorithms and Sentiment Analysis
 
 **ABSTRACT**
