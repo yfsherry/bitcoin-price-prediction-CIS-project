@@ -46,10 +46,13 @@ deep learning networks, we implemented LightGBM to left our weak features.
 
 **Author**
 
-Tong Li · Xi’an Jiaotong University · College of Mathematics and Statistics · litong1812@gmail.com\n
-Pengfei Qiao · Southeast University · College of Computer Science · anesthetisa@gmail.com\n
-Yuxuan Fu · East China Normal University · College of Economic Management · sherry_fu1002@163.com\n
-Jiayi Yan · Qingdao No.2 Middle School · nanabeatrice@163.com\n
+Tong Li · Xi’an Jiaotong University · College of Mathematics and Statistics · litong1812@gmail.com
+
+Pengfei Qiao · Southeast University · College of Computer Science · anesthetisa@gmail.com
+
+Yuxuan Fu · East China Normal University · College of Economic Management · sherry_fu1002@163.com
+
+Jiayi Yan · Qingdao No.2 Middle School · nanabeatrice@163.com
 
 #
 **Note**
